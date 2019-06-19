@@ -1,0 +1,4 @@
+anaconda update
+
+conda update -n base conda
+conda update --all
